@@ -1,10 +1,11 @@
 #-*- coding=utf-8 -*-
+__author__ = 'zz'
 """
 Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.
-According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes v and w as
-the lowest node in T that has both v and w as descendants (where we allow a node to be a descendant of itself).”
-        _______6______
-       /              \
+According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two
+nodes v and w as the lowest node in T that has both v and w as descendants (where we allow a node to be a descendant of itself).”
+           ___6______
+        /              \
     ___2__          ___8__
    /      \        /      \
    0      _4       7       9
@@ -27,20 +28,39 @@ class Solution:
     # @param {TreeNode} q
     # @return {TreeNode}
     def lowestCommonAncestor(self, root, p, q):
-        if root == None or p == None or q == None:
+        if root is None or p is None or q is None:
             return None
-        if p.val == root.val or q.val == root.val:
-            return root
-        if p.val < root.val:
-            if q.val < root.val:
-                return self.lowestCommonAncestor(root.left, p, q)
+        path_p = [root]
+        path_q = [root]
+        self.dfs_child(root, p, path_p)
+        self.dfs_child(root, q, path_q)
+        index = 0
+        while True:
+            if index+1 < len(path_p) and index+1 < len(path_q) and path_p[index+1] == path_q[index+1]:
+                index = index + 1
             else:
-                return root
+                break
+        return path_p[index]
+
+
+    # find path
+    def dfs_child(self, root, p, path):
+        if root == None:
+            return False
+        if root == p:
+            return True
+        path.append(root.left)
+        if self.dfs_child(root.left, p, path) is True:
+            return True
         else:
-            if q.val < root.val:
-                return root
+            path.pop()
+            path.append(root.right)
+            if self.dfs_child(root.right, p, path) is True:
+                return True
             else:
-                return  self.lowestCommonAncestor(root.right, p, q)
+                path.pop()
+                return False
+
 
 if __name__ == '__main__':
     s1 = TreeNode(6)
@@ -60,7 +80,6 @@ if __name__ == '__main__':
     s9 = TreeNode(5)
     s5.left = s8
     s5.right = s9
-
     solution = Solution()
     res = solution.lowestCommonAncestor(s1, s2, s3)
     print res.val
