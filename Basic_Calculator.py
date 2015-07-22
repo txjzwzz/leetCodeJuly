@@ -20,7 +20,7 @@ class Solution:
     def calculate(self, s):
         if not s:
             return 0
-        self.singleCal(s)
+        return self.singleCal(s)
 
     # 计算单元的表达式的值，也就是没有括号的表达式的值
     def singleCal(self, s):
@@ -51,35 +51,45 @@ class Solution:
                     tmpOp = opList.pop()
                 if tmpOpList:
                     tmpValList.append(valList.pop())
-                print tmpOpList
-                print tmpValList
                 valList.append(self.calValue(tmpValList, tmpOpList))
             else:
                 endIndex = startIndex
                 while endIndex < len(s) and ord(s[endIndex]) >= 48 and ord(s[endIndex]) <= 57:
                     endIndex += 1
-                print "str: " + s[startIndex: endIndex]
                 valList.append(int(s[startIndex : endIndex]))
-                startIndex = endIndex + 1
-        print valList
-        print opList
+                startIndex = endIndex
         if not valList:
             return 0
+        startIndex = 0
+        res = valList[0]
+        while startIndex < len(opList):
+            if opList[startIndex] == '+':
+                res = res + valList[startIndex+1]
+            else:
+                res = res - valList[startIndex+1]
+            startIndex = startIndex + 1
+        return res
+
 
     # 不包含一个括号，计算一个简单的表达时
     def calValue(self, valList, opList):
         if not valList:
             return 0
-        res = valList[0]
-        startIndex = 0
-        while startIndex < len(opList):
-            if opList[startIndex] == '+':
-                res = res + valList[startIndex + 1]
-            elif opList[startIndex] == '-':
-                res = res - valList[startIndex + 1]
+        res = valList.pop()
+        while valList:
+            if opList.pop() == '+':
+                res = res + valList.pop()
+            else:
+                res = res - valList.pop()
         return res
 
 if __name__ == '__main__':
     solution = Solution()
     s = "(1+(4+5+2)-3)+(6+8)"
-    solution.calculate(s)
+    print solution.calculate(s)
+    s = "1+1-1"
+    print solution.calculate(s)
+    s = "1+(4+5+2)-3+(6+8)"
+    print solution.calculate(s)
+    s = "(1+(4+5+2)-3)+6+8"
+    print solution.calculate(s)
