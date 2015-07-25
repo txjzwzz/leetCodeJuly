@@ -58,7 +58,6 @@ class Solution:
                 startIndex = endIndex
         if not valList:
             return 0
-        print valList, opList
         startIndex = 0
         res = valList[0]
         while startIndex < len(opList):
