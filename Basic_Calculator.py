@@ -42,15 +42,13 @@ class Solution:
             elif s[startIndex] == ')':
                 startIndex += 1
                 # 每等到一个)就处理这个对应的(，使得这个括号成为一个值加入到valList中间去
-                tmpValList = []
+                tmpValList = [valList.pop()]
                 tmpOpList = []
                 tmpOp = opList.pop()
                 while (tmpOp != '('):
                     tmpOpList.append(tmpOp)
                     tmpValList.append(valList.pop())
                     tmpOp = opList.pop()
-                if tmpOpList:
-                    tmpValList.append(valList.pop())
                 valList.append(self.calValue(tmpValList, tmpOpList))
             else:
                 endIndex = startIndex
@@ -60,6 +58,7 @@ class Solution:
                 startIndex = endIndex
         if not valList:
             return 0
+        print valList, opList
         startIndex = 0
         res = valList[0]
         while startIndex < len(opList):
@@ -92,4 +91,6 @@ if __name__ == '__main__':
     s = "1+(4+5+2)-3+(6+8)"
     print solution.calculate(s)
     s = "(1+(4+5+2)-3)+6+8"
+    print solution.calculate(s)
+    s = "(3)+1"
     print solution.calculate(s)
