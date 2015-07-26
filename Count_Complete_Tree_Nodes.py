@@ -41,8 +41,39 @@ class Solution:
             queue = tmpQueue[:]
             depth += 1
     """
+    # 现在换个思路，因为这里有一个性质没有使用到，就是底层的结点，一旦一个结点底层是满的，那么，
+    # 其左边的一定是满的，所以可以用类似二分查找的方式！目的是找到左右分叉的点！
+    # 当然，左右分叉的点可能不存在！
+    # 过程就是对比左子结点和右子结点的最右的底层结点的高度
     def countNodes(self, root):
-        return
+        path = []
+        self.markPath(root, path)
+        depth = 0
+        count = 0
+        while path:
+            count = count + path.pop() * pow(2, depth)
+            depth += 1
+        res = pow(2, depth) - 1 + count
+        return res
+
+    def markPath(self, root, path):
+        if not root:
+            return
+        if self.count_right_height(root.left) > self.count_right_height(root.right):
+            path.append(1)
+            self.markPath(root.right, path)
+        else:
+            path.append(0)
+            self.markPath(root.left, path)
+
+    def count_right_height(self, root):
+        if not root:
+            return 0
+        count = 1
+        while root.right:
+            count += 1
+            root = root.right
+        return count
 
 
 if __name__ == '__main__':
