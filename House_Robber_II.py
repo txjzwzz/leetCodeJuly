@@ -23,6 +23,8 @@ class Solution:
             matrix[1] = nums[0]
         for i in range(2, len(nums)-1):
             matrix[i] = max(matrix[i-1], matrix[i-2] + nums[i])
+        if len(nums) > 1:
+            matrix[len(nums)-1] = matrix[len(nums)-2]
         tmpMax1 = matrix[len(nums)-1]
         # 不用第一个
         matrix[0] = 0
