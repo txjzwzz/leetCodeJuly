@@ -25,12 +25,33 @@ class Solution:
     # @param {integer[][]} prerequisites
     # @return {boolean}
     def canFinish(self, numCourses, prerequisites):
-        if numCourses <= 0:
-            return False
-        if not prerequisites or len(prerequisites) < 2:
+        if numCourses <= 0 or not prerequisites:
             return True
+        needDict = {}
+        for i in prerequisites:
+            if len(i) == 2:
+                if i[0] in needDict:
+                    needDict[i[0]].append(i[1])
+                else:
+                    needDict[i[0]] = [i[1]]
+        while True:
+            edit = False
+            for key in needDict.keys():
+                for val in needDict[key]:
+                    if val not in needDict:
+                        needDict[key].remove(val)
+                        edit = True
+                if len(needDict[key]) == 0:
+                    needDict.pop(key)
+            if not needDict:
+                return True
+            if not edit:
+                return False
 
-
-
-    def searchFirst(self, root, val):
-        queue = []
+if __name__ == '__main__':
+    numCourses = 2
+    prerequisites = [[0, 1]]
+    solution = Solution()
+    print solution.canFinish(numCourses, prerequisites)
+    prerequisites = [[0, 1], [1, 0]]
+    print solution.canFinish(numCourses, prerequisites)
