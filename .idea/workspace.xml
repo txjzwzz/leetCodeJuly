@@ -13,13 +13,14 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum_III.coverage" NAME="Combination_Sum_III Coverage Results" MODIFIED="1438241274315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodeJuly$Number_of_Digit_One.coverage" NAME="Number_of_Digit_One Coverage Results" MODIFIED="1437211798109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Contains_Duplicate.coverage" NAME="Contains_Duplicate Coverage Results" MODIFIED="1438061967729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Number_of_Digit_One.coverage" NAME="Number_of_Digit_One Coverage Results" MODIFIED="1437211798109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$AddSearch_Word_Data_structure_design.coverage" NAME="AddSearch_Word_Data_structure_design Coverage Results" MODIFIED="1438394904447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum_II.coverage" NAME="Combination_Sum_II Coverage Results" MODIFIED="1438226767494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_a_2D_Matrix_II.coverage" NAME="Search_a_2D_Matrix_II Coverage Results" MODIFIED="1438494801830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_a_2D_Matrix.coverage" NAME="Search_a_2D_Matrix Coverage Results" MODIFIED="1438490358158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Implement_Queue_using_Stacks.coverage" NAME="Implement_Queue_using_Stacks Coverage Results" MODIFIED="1437270354780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_a_2D_Matrix.coverage" NAME="Search_a_2D_Matrix Coverage Results" MODIFIED="1438490358158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_a_2D_Matrix_II.coverage" NAME="Search_a_2D_Matrix_II Coverage Results" MODIFIED="1438494801830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Sliding_Window_Maximum.coverage" NAME="Sliding_Window_Maximum Coverage Results" MODIFIED="1438678630602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Lowest_Common_Ancestor_of_a_Binary_Search_Tree.coverage" NAME="Lowest_Common_Ancestor_of_a_Binary_Search_Tree Coverage Results" MODIFIED="1437187055928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Power_of_Two.coverage" NAME="Power_of_Two Coverage Results" MODIFIED="1437272530480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum.coverage" NAME="Combination_Sum Coverage Results" MODIFIED="1438225030754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -39,9 +40,11 @@
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Kth_Largest_Element_in_an_Array.coverage" NAME="Kth_Largest_Element_in_an_Array Coverage Results" MODIFIED="1438245560298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Minimum_Size_Subarray_Sum.coverage" NAME="Minimum_Size_Subarray_Sum Coverage Results" MODIFIED="1438480199918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Reverse_Words_in_a_String.coverage" NAME="Reverse_Words_in_a_String Coverage Results" MODIFIED="1438484969814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Valid_Anagram.coverage" NAME="Valid_Anagram Coverage Results" MODIFIED="1438669881821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Contains_Duplicate_II.coverage" NAME="Contains_Duplicate_II Coverage Results" MODIFIED="1438062916874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Basic_Calculator_II.coverage" NAME="Basic_Calculator_II Coverage Results" MODIFIED="1437827352538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Bitwise_AND_of_Numbers_Range.coverage" NAME="Bitwise_AND_of_Numbers_Range Coverage Results" MODIFIED="1438483301833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Different_Ways_to_Add_Parentheses.coverage" NAME="Different_Ways_to_Add_Parentheses Coverage Results" MODIFIED="1438675772281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Majority_Element_II.coverage" NAME="Majority_Element_II Coverage Results" MODIFIED="1437292577124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Kth_Smallest_Element_in_a_BST.coverage" NAME="Kth_Smallest_Element_in_a_BST Coverage Results" MODIFIED="1438244431745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Maximal_Square.coverage" NAME="Maximal_Square Coverage Results" MODIFIED="1438052213391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,24 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Contains_Duplicate.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contains_Duplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Count_Primes.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Count_Primes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="132" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1102">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Course_Schedule.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course_Schedule.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,7 +99,7 @@
       <file leaf-file-name="Bitwise_AND_of_Numbers_Range.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bitwise_AND_of_Numbers_Range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="23" selection-start="440" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+            <state line="18" column="23" selection-start="440" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="551">
               <folding />
             </state>
           </provider>
@@ -123,7 +108,7 @@
       <file leaf-file-name="Reverse_Words_in_a_String.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Reverse_Words_in_a_String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="8" selection-start="668" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
+            <state line="25" column="8" selection-start="668" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="703">
               <folding />
             </state>
           </provider>
@@ -132,7 +117,7 @@
       <file leaf-file-name="Search_a_2D_Matrix.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Search_a_2D_Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="23" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1197">
+            <state line="32" column="23" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1197">
               <folding />
             </state>
           </provider>
@@ -147,10 +132,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Different_Ways_to_Add_Parentheses.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Different_Ways_to_Add_Parentheses.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Different_Ways_to_Add_Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="534" selection-end="658" vertical-scroll-proportion="0.4543919" vertical-offset="225" max-vertical-offset="874">
+            <state line="70" column="18" selection-start="569" selection-end="2130" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1596">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sliding_Window_Maximum.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sliding_Window_Maximum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="21" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.4543919" vertical-offset="472" max-vertical-offset="1463">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Valid_Anagram.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="8" selection-start="418" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="931">
               <folding />
             </state>
           </provider>
@@ -201,7 +204,9 @@
         <option value="$PROJECT_DIR$/Reverse_Words_in_a_String.py" />
         <option value="$PROJECT_DIR$/Search_a_2D_Matrix.py" />
         <option value="$PROJECT_DIR$/Search_a_2D_Matrix_II.py" />
+        <option value="$PROJECT_DIR$/Valid_Anagram.py" />
         <option value="$PROJECT_DIR$/Different_Ways_to_Add_Parentheses.py" />
+        <option value="$PROJECT_DIR$/Sliding_Window_Maximum.py" />
       </list>
     </option>
   </component>
@@ -237,6 +242,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,7 +263,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,64 +281,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Search_a_2D_Matrix_II">
-    <configuration default="false" name="Implement_Trie_(Prefix Tree)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCodeJuly" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implement_Trie_(Prefix Tree).py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Bitwise_AND_of_Numbers_Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCodeJuly" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bitwise_AND_of_Numbers_Range.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Reverse_Words_in_a_String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCodeJuly" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse_Words_in_a_String.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Sliding_Window_Maximum">
     <configuration default="false" name="Search_a_2D_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,6 +315,63 @@
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search_a_2D_Matrix_II.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Valid_Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCodeJuly" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid_Anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Different_Ways_to_Add_Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCodeJuly" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Different_Ways_to_Add_Parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sliding_Window_Maximum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCodeJuly" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sliding_Window_Maximum.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -456,6 +461,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -477,9 +485,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -523,19 +528,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Implement_Trie_(Prefix Tree)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Bitwise_AND_of_Numbers_Range" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Reverse_Words_in_a_String" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Valid_Anagram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Different_Ways_to_Add_Parentheses" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Sliding_Window_Maximum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Reverse_Words_in_a_String" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Bitwise_AND_of_Numbers_Range" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Implement_Trie_(Prefix Tree)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Sliding_Window_Maximum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Different_Ways_to_Add_Parentheses" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Valid_Anagram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -565,11 +570,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -589,16 +594,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Majority_Element_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="389" selection-end="1142" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="868" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Summary_Ranges.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="307" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="560" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic_Calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="68" selection-start="1295" selection-end="1636" vertical-scroll-proportion="0.0" vertical-offset="564" max-vertical-offset="1428" />
@@ -776,23 +771,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/House_Robber_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="736" selection-end="1374" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1064">
-          <folding />
-        </state>
+        <state line="16" column="8" selection-start="736" selection-end="1374" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1064" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic_Calculator_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1330">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic_Calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="39" selection-start="2054" selection-end="2054" vertical-scroll-proportion="0.0" vertical-offset="868" max-vertical-offset="1414">
-          <folding />
-        </state>
+        <state line="62" column="39" selection-start="2054" selection-end="2054" vertical-scroll-proportion="0.0" vertical-offset="868" max-vertical-offset="1414" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Contains_Duplicate.py">
@@ -804,9 +793,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddSearch_Word_Data_structure_design.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="30" selection-start="3099" selection-end="3099" vertical-scroll-proportion="0.0" vertical-offset="1400" max-vertical-offset="1484">
-          <folding />
-        </state>
+        <state line="100" column="30" selection-start="3099" selection-end="3099" vertical-scroll-proportion="0.0" vertical-offset="1400" max-vertical-offset="1484" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Count_Primes.py">
@@ -873,9 +860,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="418" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="931">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Different_Ways_to_Add_Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="534" selection-end="658" vertical-scroll-proportion="0.4543919" vertical-offset="225" max-vertical-offset="874">
+        <state line="70" column="18" selection-start="569" selection-end="2130" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sliding_Window_Maximum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="21" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.4543919" vertical-offset="472" max-vertical-offset="1463">
           <folding />
         </state>
       </provider>
