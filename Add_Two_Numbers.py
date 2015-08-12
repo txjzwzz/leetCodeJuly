@@ -36,4 +36,7 @@ class Solution:
             addBit = (l2.val+addBit) / 10
             l2 = l2.next
             tmp = tmp.next
+        if addBit != 0:
+            tmp.next = ListNode(addBit)
+            tmp = tmp.next
         return startNode.next

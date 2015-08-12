@@ -53,6 +53,7 @@
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Maximal_Square.coverage" NAME="Maximal_Square Coverage Results" MODIFIED="1438052213391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Number_of_Islands.coverage" NAME="Number_of_Islands Coverage Results" MODIFIED="1438073741894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Reverse_Words_in_a_String.coverage" NAME="Reverse_Words_in_a_String Coverage Results" MODIFIED="1438484969814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest_Substring_Without_Repeating_Characters Coverage Results" MODIFIED="1439397175977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1438851979938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum_II.coverage" NAME="Combination_Sum_II Coverage Results" MODIFIED="1438226767494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -77,10 +78,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add_Two_Numbers.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Add_Two_Numbers.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Add_Two_Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="29" selection-start="532" selection-end="1204" vertical-scroll-proportion="0.7710145" vertical-offset="0" max-vertical-offset="690">
+            <state line="38" column="8" selection-start="1183" selection-end="1265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Substring_Without_Repeating_Characters.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="64" selection-start="756" selection-end="775" vertical-scroll-proportion="0.60475165" vertical-offset="0" max-vertical-offset="518">
               <folding />
             </state>
           </provider>
@@ -144,6 +154,7 @@
         <option value="$PROJECT_DIR$/Two_Sum.py" />
         <option value="$PROJECT_DIR$/3Sum.py" />
         <option value="$PROJECT_DIR$/Add_Two_Numbers.py" />
+        <option value="$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py" />
       </list>
     </option>
   </component>
@@ -217,26 +228,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.3Sum">
-    <configuration default="false" name="Rectangle_Area" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCodeJuly" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rectangle_Area.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Longest_Substring_Without_Repeating_Characters">
     <configuration default="false" name="Reverse_Linked_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,6 +302,27 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Sum.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Longest_Substring_Without_Repeating_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCodeJuly" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -464,19 +477,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Rectangle_Area" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Isomorphic_Strings" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Two_Sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3Sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Isomorphic_Strings" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Two_Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3Sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Longest_Substring_Without_Repeating_Characters" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3Sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Two_Sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Isomorphic_Strings" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Rectangle_Area" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Longest_Substring_Without_Repeating_Characters" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3Sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Two_Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Isomorphic_Strings" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
       </list>
     </recent_temporary>
   </component>
@@ -498,11 +511,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10138889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2986111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31578946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3148405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -706,7 +719,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Add_Two_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="29" selection-start="532" selection-end="1204" vertical-scroll-proportion="0.7710145" vertical-offset="0" max-vertical-offset="690">
+        <state line="38" column="8" selection-start="1183" selection-end="1265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="64" selection-start="756" selection-end="775" vertical-scroll-proportion="0.60475165" vertical-offset="0" max-vertical-offset="518">
           <folding />
         </state>
       </provider>
