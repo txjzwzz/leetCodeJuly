@@ -18,5 +18,28 @@ class Solution:
     # @param {integer} numRows
     # @return {string}
     def convert(self, s, numRows):
+        if not s or numRows == 1:
+            return s
         resList = ["" for i in range(numRows)]
-        
+        count = 0
+        direction = 0
+        for i in s:
+            resList[count] += i
+            if direction == 0:
+                if count == numRows-1:
+                    direction = 1
+                    count -= 1
+                else:
+                    count += 1
+            else:
+                if count == 0:
+                    count += 1
+                    direction = 0
+                else:
+                    count -= 1
+        return "".join(resList[i] for i in range(numRows))
+
+if __name__ == '__main__':
+    solution = Solution()
+    s = "PAYPALISHIRING"
+    print solution.convert(s, 1)
