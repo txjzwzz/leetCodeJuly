@@ -11,4 +11,14 @@ class Solution:
     # @param {integer} num
     # @return {integer}
     def addDigits(self, num):
-        
+        res = 0
+        while num:
+            res += num % 10
+            res = res % 10 + res / 10
+            num = num / 10
+        return res
+
+if __name__ == '__main__':
+    solution = Solution()
+    print solution.addDigits(38)
+    print solution.addDigits(999)
