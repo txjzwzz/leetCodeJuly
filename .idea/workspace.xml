@@ -12,11 +12,14 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_for_a_Range.coverage" NAME="Search_for_a_Range Coverage Results" MODIFIED="1440142376930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Kth_Smallest_Element_in_a_BST.coverage" NAME="Kth_Smallest_Element_in_a_BST Coverage Results" MODIFIED="1438244431745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Bitwise_AND_of_Numbers_Range.coverage" NAME="Bitwise_AND_of_Numbers_Range Coverage Results" MODIFIED="1438483301833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Lowest_Common_Ancestor_of_a_Binary_Search_Tree.coverage" NAME="Lowest_Common_Ancestor_of_a_Binary_Search_Tree Coverage Results" MODIFIED="1437187055928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Single_Number.coverage" NAME="Single_Number Coverage Results" MODIFIED="1439823137546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Integer_to_Roman.coverage" NAME="Integer_to_Roman Coverage Results" MODIFIED="1439716236311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Contains_Duplicate_II.coverage" NAME="Contains_Duplicate_II Coverage Results" MODIFIED="1438062916874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Swap_Nodes_in_Pairs.coverage" NAME="Swap_Nodes_in_Pairs Coverage Results" MODIFIED="1439900914935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Isomorphic_Strings.coverage" NAME="Isomorphic_Strings Coverage Results" MODIFIED="1438846090493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Basic_Calculator_II.coverage" NAME="Basic_Calculator_II Coverage Results" MODIFIED="1437827352538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$ZigZag_Conversion.coverage" NAME="ZigZag_Conversion Coverage Results" MODIFIED="1439691724524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -24,22 +27,31 @@
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Contains_Duplicate_III.coverage" NAME="Contains_Duplicate_III Coverage Results" MODIFIED="1438071106926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$String__to_Integer__atoi_.coverage" NAME="String _to_Integer_(atoi) Coverage Results" MODIFIED="1439711637199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Binary_Tree_Paths.coverage" NAME="Binary_Tree_Paths Coverage Results" MODIFIED="1439717482392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Next_Permutation.coverage" NAME="Next_Permutation Coverage Results" MODIFIED="1440126621430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Valid_Parentheses.coverage" NAME="Valid_Parentheses Coverage Results" MODIFIED="1439889406519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Number_of_Digit_One.coverage" NAME="Number_of_Digit_One Coverage Results" MODIFIED="1437211798109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Valid_Sudoku.coverage" NAME="Valid_Sudoku Coverage Results" MODIFIED="1440212607171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Majority_Element_II.coverage" NAME="Majority_Element_II Coverage Results" MODIFIED="1437292577124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Reverse_Integer.coverage" NAME="Reverse_Integer Coverage Results" MODIFIED="1439696735706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Count_Primes.coverage" NAME="Count_Primes Coverage Results" MODIFIED="1438415858912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Contains_Duplicate.coverage" NAME="Contains_Duplicate Coverage Results" MODIFIED="1438061967729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Power_of_Two.coverage" NAME="Power_of_Two Coverage Results" MODIFIED="1437272530480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Remove_Element.coverage" NAME="Remove_Element Coverage Results" MODIFIED="1440115119048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_Insert_Position.coverage" NAME="Search_Insert_Position Coverage Results" MODIFIED="1440191456193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Implement_Queue_using_Stacks.coverage" NAME="Implement_Queue_using_Stacks Coverage Results" MODIFIED="1437270354780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$4Sum.coverage" NAME="4Sum Coverage Results" MODIFIED="1439887810300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Implement_Trie__Prefix_Tree_.coverage" NAME="Implement_Trie_(Prefix Tree) Coverage Results" MODIFIED="1438483098130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Reverse_Nodes_in_k_Group.coverage" NAME="Reverse_Nodes_in_k-Group Coverage Results" MODIFIED="1439910058656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Palindrome_Linked_List.coverage" NAME="Palindrome_Linked_List Coverage Results" MODIFIED="1437205645545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_a_2D_Matrix_II.coverage" NAME="Search_a_2D_Matrix_II Coverage Results" MODIFIED="1438494801830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Different_Ways_to_Add_Parentheses.coverage" NAME="Different_Ways_to_Add_Parentheses Coverage Results" MODIFIED="1438675772281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Ugly_Number_II.coverage" NAME="Ugly_Number_II Coverage Results" MODIFIED="1440083995893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$House_Robber.coverage" NAME="House_Robber Coverage Results" MODIFIED="1438247003105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Remove_Nth_Node_From_End_of_List.coverage" NAME="Remove_Nth_Node_From_End_of_List Coverage Results" MODIFIED="1439888913152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Maximal_Square.coverage" NAME="Maximal_Square Coverage Results" MODIFIED="1438052213391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Number_of_Islands.coverage" NAME="Number_of_Islands Coverage Results" MODIFIED="1438073741894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest_Substring_Without_Repeating_Characters Coverage Results" MODIFIED="1439397175977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodeJuly$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1438851979938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1439884592446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Count_Complete_Tree_Nodes.coverage" NAME="Count_Complete_Tree_Nodes Coverage Results" MODIFIED="1437876375178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Reverse_Linked_List.coverage" NAME="Reverse_Linked_List Coverage Results" MODIFIED="1438844047520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Basic_Calculator.coverage" NAME="Basic_Calculator Coverage Results" MODIFIED="1437807449140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -47,22 +59,26 @@
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Course_Schedule.coverage" NAME="Course_Schedule Coverage Results" MODIFIED="1438420999887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Minimum_Size_Subarray_Sum.coverage" NAME="Minimum_Size_Subarray_Sum Coverage Results" MODIFIED="1438480199918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Majority_Element.coverage" NAME="Majority_Element Coverage Results" MODIFIED="1437273137248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Divide_Two_Integers.coverage" NAME="Divide_Two_Integers Coverage Results" MODIFIED="1440124167026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Two_Sum.coverage" NAME="Two_Sum Coverage Results" MODIFIED="1438848295921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Rectangle_Area.coverage" NAME="Rectangle_Area Coverage Results" MODIFIED="1438830283239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Kth_Largest_Element_in_an_Array.coverage" NAME="Kth_Largest_Element_in_an_Array Coverage Results" MODIFIED="1438245560298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Container_With_Most_Water.coverage" NAME="Container_With_Most_Water Coverage Results" MODIFIED="1439714977834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum.coverage" NAME="Combination_Sum Coverage Results" MODIFIED="1438225030754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodeJuly$Sliding_Window_Maximum.coverage" NAME="Sliding_Window_Maximum Coverage Results" MODIFIED="1438678630602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Sliding_Window_Maximum.coverage" NAME="Sliding_Window_Maximum Coverage Results" MODIFIED="1439883416405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Single_Number_III.coverage" NAME="Single_Number_III Coverage Results" MODIFIED="1439883434975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$AddSearch_Word_Data_structure_design.coverage" NAME="AddSearch_Word_Data_structure_design Coverage Results" MODIFIED="1438394904447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Longest_Palindromic_Substring.coverage" NAME="Longest_Palindromic_Substring Coverage Results" MODIFIED="1439606993117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Implement_Stack_using_Queues.coverage" NAME="Implement_Stack_using_Queues Coverage Results" MODIFIED="1438828732608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Search_a_2D_Matrix.coverage" NAME="Search_a_2D_Matrix Coverage Results" MODIFIED="1439716748894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Valid_Anagram.coverage" NAME="Valid_Anagram Coverage Results" MODIFIED="1438669881821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Course_Schedule_II.coverage" NAME="Course_Schedule_II Coverage Results" MODIFIED="1438421684821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Single_Number_II.coverage" NAME="Single_Number_II Coverage Results" MODIFIED="1439865879437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Roman_to_Integer.coverage" NAME="Roman_to_Integer Coverage Results" MODIFIED="1439716778321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Happy_Number.coverage" NAME="Happy_Number Coverage Results" MODIFIED="1438827308207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum_III.coverage" NAME="Combination_Sum_III Coverage Results" MODIFIED="1438241274315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$House_Robber_II.coverage" NAME="House_Robber_II Coverage Results" MODIFIED="1438264723664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Generate_Parentheses.coverage" NAME="Generate_Parentheses Coverage Results" MODIFIED="1439900154120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Reverse_Words_in_a_String.coverage" NAME="Reverse_Words_in_a_String Coverage Results" MODIFIED="1438484969814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Combination_Sum_II.coverage" NAME="Combination_Sum_II Coverage Results" MODIFIED="1438226767494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -78,91 +94,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Longest_Palindromic_Substring.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Longest_Palindromic_Substring.py">
+      <file leaf-file-name="Remove_Duplicates_from_Sorted_Array.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Remove_Duplicates_from_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="8" selection-start="1232" selection-end="1926" vertical-scroll-proportion="0.0" vertical-offset="490" max-vertical-offset="1022">
+            <state line="17" column="8" selection-start="592" selection-end="826" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZigZag_Conversion.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZigZag_Conversion.py">
+      <file leaf-file-name="Ugly_Number.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ugly_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="58" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="193" max-vertical-offset="700">
+            <state line="16" column="8" selection-start="465" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="434">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reverse_Integer.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse_Integer.py">
+      <file leaf-file-name="Ugly_Number_II.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ugly_Number_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="26" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
+            <state line="28" column="26" selection-start="446" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="392" max-vertical-offset="546">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String _to_Integer_(atoi).py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String _to_Integer_(atoi).py">
+      <file leaf-file-name="Remove_Element.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Remove_Element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="756">
+            <state line="24" column="23" selection-start="414" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="686">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrome_Number.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Palindrome_Number.py">
+      <file leaf-file-name="Implement_strStr.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Implement_strStr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="8" selection-start="230" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
+            <state line="14" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="280">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Container_With_Most_Water.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Container_With_Most_Water.py">
+      <file leaf-file-name="Divide_Two_Integers.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Divide_Two_Integers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="38" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="546">
+            <state line="39" column="22" selection-start="1075" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="742">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Integer_to_Roman.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Integer_to_Roman.py">
+      <file leaf-file-name="Next_Permutation.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Next_Permutation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="31" selection-start="180" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="518">
+            <state line="23" column="49" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1078">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Roman_to_Integer.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Roman_to_Integer.py">
+      <file leaf-file-name="Search_for_a_Range.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Search_for_a_Range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="8" selection-start="261" selection-end="996" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="910">
-              <folding />
+            <state line="40" column="10" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="812">
+              <folding>
+                <marker date="1440142383000" expanded="true" signature="376:1323" placeholder="..." />
+                <marker date="1440142383000" expanded="true" signature="417:671" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary_Tree_Paths.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Tree_Paths.py">
+      <file leaf-file-name="Search_Insert_Position.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Search_Insert_Position.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="455" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="840">
-              <folding />
+            <state line="61" column="39" selection-start="1788" selection-end="1788" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="938">
+              <folding>
+                <marker date="1440191456000" expanded="true" signature="43:341" placeholder="&quot;&quot;&quot;Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order....&quot;&quot;&quot;" />
+                <marker date="1440191456000" expanded="true" signature="365:1312" placeholder="..." />
+                <marker date="1440191456000" expanded="true" signature="407:612" placeholder="..." />
+                <marker date="1440191456000" expanded="true" signature="662:1312" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add_Digits.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Add_Digits.py">
+      <file leaf-file-name="Valid_Sudoku.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Valid_Sudoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="8" selection-start="371" selection-end="371" vertical-scroll-proportion="0.41647598" vertical-offset="0" max-vertical-offset="437">
+            <state line="28" column="19" selection-start="374" selection-end="952" vertical-scroll-proportion="0.67963386" vertical-offset="95" max-vertical-offset="672">
               <folding />
             </state>
           </provider>
@@ -178,26 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Majority_Element_II.py" />
-        <option value="$PROJECT_DIR$/Summary_Ranges.py" />
-        <option value="$PROJECT_DIR$/Basic_Calculator.py" />
-        <option value="$PROJECT_DIR$/Basic_Calculator_II.py" />
-        <option value="$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Tree.py" />
-        <option value="$PROJECT_DIR$/Count_Complete_Tree_Nodes.py" />
-        <option value="$PROJECT_DIR$/Maximal_Square.py" />
-        <option value="$PROJECT_DIR$/Contains_Duplicate.py" />
-        <option value="$PROJECT_DIR$/Contains_Duplicate_II.py" />
-        <option value="$PROJECT_DIR$/Contains_Duplicate_III.py" />
-        <option value="$PROJECT_DIR$/Number_of_Islands.py" />
-        <option value="$PROJECT_DIR$/Combination_Sum.py" />
-        <option value="$PROJECT_DIR$/Combination_Sum_II.py" />
-        <option value="$PROJECT_DIR$/Combination_Sum_III.py" />
-        <option value="$PROJECT_DIR$/Kth_Largest_Element_in_an_Array.py" />
-        <option value="$PROJECT_DIR$/House_Robber.py" />
-        <option value="$PROJECT_DIR$/House_Robber_II.py" />
-        <option value="$PROJECT_DIR$/AddSearch_Word_Data_structure_design.py" />
-        <option value="$PROJECT_DIR$/Count_Primes.py" />
-        <option value="$PROJECT_DIR$/Course_Schedule_II.py" />
         <option value="$PROJECT_DIR$/Course_Schedule.py" />
         <option value="$PROJECT_DIR$/Minimum_Size_Subarray_Sum.py" />
         <option value="$PROJECT_DIR$/Implement_Trie_(Prefix Tree).py" />
@@ -229,6 +233,26 @@
         <option value="$PROJECT_DIR$/Roman_to_Integer.py" />
         <option value="$PROJECT_DIR$/Binary_Tree_Paths.py" />
         <option value="$PROJECT_DIR$/Add_Digits.py" />
+        <option value="$PROJECT_DIR$/Single_Number.py" />
+        <option value="$PROJECT_DIR$/Single_Number_II.py" />
+        <option value="$PROJECT_DIR$/Single_Number_III.py" />
+        <option value="$PROJECT_DIR$/4Sum.py" />
+        <option value="$PROJECT_DIR$/Remove_Nth_Node_From_End_of_List.py" />
+        <option value="$PROJECT_DIR$/Valid_Parentheses.py" />
+        <option value="$PROJECT_DIR$/Merge_Two_Sorted_Lists.py" />
+        <option value="$PROJECT_DIR$/Generate_Parentheses.py" />
+        <option value="$PROJECT_DIR$/Swap_Nodes_in_Pairs.py" />
+        <option value="$PROJECT_DIR$/Reverse_Nodes_in_k-Group.py" />
+        <option value="$PROJECT_DIR$/Remove_Duplicates_from_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/Ugly_Number.py" />
+        <option value="$PROJECT_DIR$/Ugly_Number_II.py" />
+        <option value="$PROJECT_DIR$/Remove_Element.py" />
+        <option value="$PROJECT_DIR$/Implement_strStr.py" />
+        <option value="$PROJECT_DIR$/Divide_Two_Integers.py" />
+        <option value="$PROJECT_DIR$/Next_Permutation.py" />
+        <option value="$PROJECT_DIR$/Search_for_a_Range.py" />
+        <option value="$PROJECT_DIR$/Search_Insert_Position.py" />
+        <option value="$PROJECT_DIR$/Valid_Sudoku.py" />
       </list>
     </option>
   </component>
@@ -263,6 +287,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,7 +308,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,8 +326,8 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Binary_Tree_Paths">
-    <configuration default="false" name="Container_With_Most_Water" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Valid_Sudoku">
+    <configuration default="false" name="Divide_Two_Integers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -316,13 +340,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Container_With_Most_Water.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Divide_Two_Integers.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Integer_to_Roman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Next_Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -335,13 +359,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Integer_to_Roman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Next_Permutation.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Search_a_2D_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Search_for_a_Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -354,13 +378,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search_a_2D_Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search_for_a_Range.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Roman_to_Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Search_Insert_Position" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -373,13 +397,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roman_to_Integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search_Insert_Position.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Binary_Tree_Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Valid_Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -392,7 +416,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Tree_Paths.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid_Sudoku.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -549,19 +573,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Container_With_Most_Water" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Integer_to_Roman" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Roman_to_Integer" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Binary_Tree_Paths" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Divide_Two_Integers" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Next_Permutation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Search_for_a_Range" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Search_Insert_Position" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Valid_Sudoku" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Binary_Tree_Paths" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Roman_to_Integer" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Search_a_2D_Matrix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Integer_to_Roman" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Container_With_Most_Water" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Valid_Sudoku" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Search_Insert_Position" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Search_for_a_Range" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Next_Permutation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Divide_Two_Integers" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +611,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3148405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3148405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -615,133 +639,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="64" selection-start="756" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="518">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest_Palindromic_Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="13" selection-start="1363" selection-end="1363" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/House_Robber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Add_Two_Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="8" selection-start="1183" selection-end="1265" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="658">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="64" selection-start="756" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="518">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/House_Robber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic_Calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="17" selection-start="2234" selection-end="2234" vertical-scroll-proportion="0.0" vertical-offset="938" max-vertical-offset="1414" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Product_of_Array_Except_Self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="1046" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome_Linked_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="459" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Number_of_Digit_One.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="874" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1805" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Product_of_Array_Except_Self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="1046" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome_Linked_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="437" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1805" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Product_of_Array_Except_Self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Product_of_Array_Except_Self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1805" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="1046" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome_Linked_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="459" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Number_of_Digit_One.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Implement_Queue_using_Stacks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="27" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.0" vertical-offset="511" max-vertical-offset="1311" />
@@ -819,91 +716,212 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/House_Robber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Add_Two_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="8" selection-start="1183" selection-end="1265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658">
-          <folding />
-        </state>
+        <state line="38" column="8" selection-start="1183" selection-end="1265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest_Substring_Without_Repeating_Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="64" selection-start="756" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518">
-          <folding />
-        </state>
+        <state line="20" column="64" selection-start="756" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest_Palindromic_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="8" selection-start="1232" selection-end="1926" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1022">
-          <folding />
-        </state>
+        <state line="35" column="8" selection-start="1232" selection-end="1926" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1022" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZigZag_Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="58" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="193" max-vertical-offset="700">
-          <folding />
-        </state>
+        <state line="39" column="58" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="193" max-vertical-offset="700" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Reverse_Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="26" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
-          <folding />
-        </state>
+        <state line="27" column="26" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/String _to_Integer_(atoi).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="756">
-          <folding />
-        </state>
+        <state line="48" column="32" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="756" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Palindrome_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="230" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
-          <folding />
-        </state>
+        <state line="9" column="8" selection-start="230" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Container_With_Most_Water.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="38" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="546">
-          <folding />
-        </state>
+        <state line="33" column="38" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="546" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Integer_to_Roman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="31" selection-start="180" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="518">
-          <folding />
-        </state>
+        <state line="18" column="31" selection-start="180" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="518" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Roman_to_Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="261" selection-end="996" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="910">
-          <folding />
-        </state>
+        <state line="11" column="8" selection-start="261" selection-end="996" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="910" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Tree_Paths.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="455" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="840">
-          <folding />
-        </state>
+        <state line="27" column="4" selection-start="455" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Add_Digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="371" selection-end="371" vertical-scroll-proportion="0.41647598" vertical-offset="0" max-vertical-offset="437">
+        <state line="23" column="33" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="15" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single_Number_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single_Number_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="8" selection-start="691" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3Sum_Closest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="686" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="30" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="31" selection-start="2077" selection-end="3115" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="1568" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove_Nth_Node_From_End_of_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="617" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Valid_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="8" selection-start="834" selection-end="879" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge_Two_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="28" selection-start="460" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="193" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generate_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reverse_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Swap_Nodes_in_Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="32" selection-start="1064" selection-end="1445" vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="756">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reverse_Nodes_in_k-Group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="19" selection-start="773" selection-end="1575" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="1064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove_Duplicates_from_Sorted_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="592" selection-end="826" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ugly_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="465" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ugly_Number_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="26" selection-start="446" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove_Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="23" selection-start="414" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implement_strStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Divide_Two_Integers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="22" selection-start="1075" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="742">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Next_Permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="49" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search_for_a_Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="10" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="812">
+          <folding>
+            <marker date="1440142383000" expanded="true" signature="376:1323" placeholder="..." />
+            <marker date="1440142383000" expanded="true" signature="417:671" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search_Insert_Position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="39" selection-start="1788" selection-end="1788" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="938">
+          <folding>
+            <marker date="1440191456000" expanded="true" signature="43:341" placeholder="&quot;&quot;&quot;Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order....&quot;&quot;&quot;" />
+            <marker date="1440191456000" expanded="true" signature="365:1312" placeholder="..." />
+            <marker date="1440191456000" expanded="true" signature="407:612" placeholder="..." />
+            <marker date="1440191456000" expanded="true" signature="662:1312" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Valid_Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="19" selection-start="374" selection-end="952" vertical-scroll-proportion="0.67963386" vertical-offset="95" max-vertical-offset="672">
           <folding />
         </state>
       </provider>
