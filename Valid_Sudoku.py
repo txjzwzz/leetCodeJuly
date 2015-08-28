@@ -15,28 +15,23 @@ class Solution(object):
         if not board:
             return True
         col = [0 for i in range(len(board[0]))]
+        inmatrix = [0 for i in range(len(board[0]))]
         for i in range(len(board)):
             tmp = 0
             for j in range(len(board[0])):
                 if board[i][j] == '.':
                     continue
                 else:
-                    if tmp & (1 << (ord(board[i][j])-48)) or col[j] & (1 << (ord(board[i][j]))-48):
+                    bit_val = 1 << (ord(board[i][j])-48)
+                    if tmp & bit_val or col[j] & bit_val or inmatrix[(i/3)*3+j/3] & bit_val:
                         return False
                     else:
-                        tmp |= (1 << (ord(board[i][j]))-48)
-                        col[j] |= (1 << ord(board[i][j])-48)
+                        tmp |= bit_val
+                        col[j] |= bit_val
+                        inmatrix[(i/3)*3+j/3] |= bit_val
         return True
 
 if __name__ == '__main__':
     solution = Solution()
-    board = [['1', '.', '2'], ['2', '.', '3'], ['3', '.', '1']]
-    print solution.isValidSudoku(board)
-    board = [['1', '3', '2'], ['2', '.', '3'], ['3', '.', '1']]
-    print solution.isValidSudoku(board)
-    board = [['1', '1', '2'], ['2', '.', '3'], ['3', '.', '1']]
-    print solution.isValidSudoku(board)
-    board = [['1', '.', '2'], ['3', '.', '3'], ['3', '.', '1']]
-    print solution.isValidSudoku(board)
-    board = [['1', '.', '2'], ['2', '.', '2'], ['3', '.', '1']]
+    board = ["....5..1.",".4.3.....",".....3..1","8......2.","..2.7....",".15......",".....2...",".2.9.....","..4......"]
     print solution.isValidSudoku(board)
