@@ -25,16 +25,13 @@ class Solution(object):
             res.append(str(sum % 2))
             indexA -= 1
             indexB -= 1
-        while indexA >= 0:
-            sum = count + ord(a[indexA]) - 48
+        index = indexA if indexA >= 0 else indexB
+        tmp_list = a if indexA >= 0 else b
+        while index >= 0:
+            sum = count + ord(tmp_list[index]) - 48
             count = sum / 2
             res.append(str(sum % 2))
-            indexA -= 1
-        while indexB >= 0:
-            sum = count + ord(b[indexB]) - 48
-            count = sum / 2
-            res.append(str(sum % 2))
-            indexB -= 1
+            index -= 1
         if count != 0:
             res.append(str(1))
         res.reverse()

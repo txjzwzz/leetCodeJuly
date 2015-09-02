@@ -26,15 +26,11 @@ class Solution:
             l1 = l1.next
             l2 = l2.next
             tmp = tmp.next
-        while l1 != None:
-            tmp.next = ListNode((l1.val+addBit) % 10)
-            addBit = (l1.val+addBit) / 10
-            l1 = l1.next
-            tmp = tmp.next
-        while l2 != None:
-            tmp.next = ListNode((l2.val+addBit) % 10)
-            addBit = (l2.val+addBit) / 10
-            l2 = l2.next
+        l = l1 if l1 != None else l2
+        while l != None:
+            tmp.next = ListNode((l.val+addBit) % 10)
+            addBit = (l.val+addBit) / 10
+            l = l.next
             tmp = tmp.next
         if addBit != 0:
             tmp.next = ListNode(addBit)
