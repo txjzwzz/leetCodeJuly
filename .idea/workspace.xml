@@ -58,10 +58,12 @@
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Implement_Queue_using_Stacks.coverage" NAME="Implement_Queue_using_Stacks Coverage Results" MODIFIED="1437270354780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Sliding_Window_Maximum.coverage" NAME="Sliding_Window_Maximum Coverage Results" MODIFIED="1438678630602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Lowest_Common_Ancestor_of_a_Binary_Search_Tree.coverage" NAME="Lowest_Common_Ancestor_of_a_Binary_Search_Tree Coverage Results" MODIFIED="1437187055928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$Heap.coverage" NAME="Heap Coverage Results" MODIFIED="1441530209141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Majority_Element.coverage" NAME="Majority_Element Coverage Results" MODIFIED="1437273137248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$House_Robber.coverage" NAME="House_Robber Coverage Results" MODIFIED="1438247003105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Isomorphic_Strings.coverage" NAME="Isomorphic_Strings Coverage Results" MODIFIED="1438846090493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$N_Queens.coverage" NAME="N_Queens Coverage Results" MODIFIED="1440740886151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodeJuly$YangVI.coverage" NAME="YangVI Coverage Results" MODIFIED="1441334993057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Contains_Duplicate_III.coverage" NAME="Contains_Duplicate_III Coverage Results" MODIFIED="1438071106926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Rotate_List.coverage" NAME="Rotate_List Coverage Results" MODIFIED="1440902578372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodeJuly$Pow_x_n.coverage" NAME="Pow_x_n Coverage Results" MODIFIED="1440723120232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -103,24 +105,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Add_Binary.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Add_Binary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="27" selection-start="312" selection-end="972" vertical-scroll-proportion="-20.407408" vertical-offset="152" max-vertical-offset="1064">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3Sum_Closest.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3Sum_Closest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="17" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="931">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AddSearch_Word_Data_structure_design.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddSearch_Word_Data_structure_design.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -175,19 +159,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YangVI.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="YangVI.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YangVI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="152" selection-end="152" vertical-scroll-proportion="0.25123966" vertical-offset="0" max-vertical-offset="605">
+            <state line="18" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add_Two_Numbers.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Add_Two_Numbers.py">
+      <file leaf-file-name="Heap.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="532" selection-end="1153" vertical-scroll-proportion="-5.3703704" vertical-offset="216" max-vertical-offset="817">
+            <state line="50" column="11" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.0" vertical-offset="458" max-vertical-offset="1064">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit_Distance.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Edit_Distance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.56435645" vertical-offset="0" max-vertical-offset="606">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="237" column="8" selection-start="8902" selection-end="8902" vertical-scroll-proportion="0.0" vertical-offset="4070" max-vertical-offset="17271">
               <folding />
             </state>
           </provider>
@@ -203,8 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Valid_Anagram.py" />
-        <option value="$PROJECT_DIR$/Different_Ways_to_Add_Parentheses.py" />
         <option value="$PROJECT_DIR$/Sliding_Window_Maximum.py" />
         <option value="$PROJECT_DIR$/Happy_Number.py" />
         <option value="$PROJECT_DIR$/Invert_Binary_Tree.py" />
@@ -254,6 +254,8 @@
         <option value="$PROJECT_DIR$/Add_Binary.py" />
         <option value="$PROJECT_DIR$/Stack_Postfix.py" />
         <option value="$PROJECT_DIR$/YangVI.py" />
+        <option value="$PROJECT_DIR$/Heap.py" />
+        <option value="$PROJECT_DIR$/Edit_Distance.py" />
       </list>
     </option>
   </component>
@@ -328,7 +330,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stack_Postfix">
+  <component name="RunManager" selected="Python.Heap">
     <configuration default="false" name="Add_Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,44 +345,6 @@
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Add_Binary.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Simplify_Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCodeJuly" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simplify_Path.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Integer_to_English_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCodeJuly" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Integer_to_English_Words.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -419,6 +383,44 @@
       <module name="LeetCodeJuly" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_Postfix.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="YangVI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCodeJuly" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YangVI.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCodeJuly" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -576,18 +578,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Add_Binary" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Simplify_Path" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Integer_to_English_Words" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Rotate_Link" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Stack_Postfix" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Rotate_Link" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Stack_Postfix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.YangVI" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Heap" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Stack_Postfix" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Add_Binary" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Rotate_Link" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Integer_to_English_Words" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Simplify_Path" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Heap" />
+        <item index="1" class="java.lang.String" itemvalue="Python.YangVI" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Stack_Postfix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Add_Binary" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Rotate_Link" />
       </list>
     </recent_temporary>
   </component>
@@ -601,7 +603,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -609,11 +611,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16354166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31157896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3105263" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -621,7 +624,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -644,21 +646,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Majority_Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Majority_Element_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="389" selection-end="1142" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="1178" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Count_Complete_Tree_Nodes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="51" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="614" max-vertical-offset="2090" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Maximal_Square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="24" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1216" />
@@ -761,140 +748,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Happy_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="18" selection-start="1093" selection-end="1093" vertical-scroll-proportion="-24.32" vertical-offset="0" max-vertical-offset="817">
-          <folding />
-        </state>
+        <state line="32" column="18" selection-start="1093" selection-end="1093" vertical-scroll-proportion="-24.32" vertical-offset="0" max-vertical-offset="817" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Reverse_Nodes_in_k-Group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="542" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1444">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="542" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1444" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Valid_Sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Valid_Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="931">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="931" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unique_Paths_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1444">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1444" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unique_Paths.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ugly_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Two_Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="38" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="684">
-          <folding />
-        </state>
+        <state line="23" column="38" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_efficient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Swap_Nodes_in_Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Summary_Ranges.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="307" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="760">
-          <folding />
-        </state>
+        <state line="10" column="8" selection-start="307" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="760" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/String _to_Integer_(atoi).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sqrt_x.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spiral_Matrix_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="21" selection-start="399" selection-end="1314" vertical-scroll-proportion="0.0" vertical-offset="592" max-vertical-offset="1216">
-          <folding />
-        </state>
+        <state line="52" column="21" selection-start="399" selection-end="1314" vertical-scroll-proportion="0.0" vertical-offset="592" max-vertical-offset="1216" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rotate_List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1995">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1995" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rotate_Link.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="47" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="741">
-          <folding />
-        </state>
+        <state line="24" column="47" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="741" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rotate_Image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Add_Two_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="532" selection-end="1153" vertical-scroll-proportion="-5.3703704" vertical-offset="216" max-vertical-offset="817">
+        <state line="19" column="8" selection-start="532" selection-end="1153" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="817">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Add_Binary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="27" selection-start="312" selection-end="972" vertical-scroll-proportion="-20.407408" vertical-offset="152" max-vertical-offset="1064">
+        <state line="37" column="27" selection-start="312" selection-end="972" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="1064">
           <folding />
         </state>
       </provider>
@@ -950,7 +901,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/YangVI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="152" selection-end="152" vertical-scroll-proportion="0.25123966" vertical-offset="0" max-vertical-offset="605">
+        <state line="18" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="237" column="8" selection-start="8902" selection-end="8902" vertical-scroll-proportion="0.0" vertical-offset="4070" max-vertical-offset="17271">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="11" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.0" vertical-offset="458" max-vertical-offset="1064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Edit_Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.56435645" vertical-offset="0" max-vertical-offset="606">
           <folding />
         </state>
       </provider>
