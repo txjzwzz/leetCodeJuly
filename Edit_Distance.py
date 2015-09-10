@@ -16,3 +16,26 @@ class Solution(object):
         :type word2: str
         :rtype: int
         """
+        len1 = len(word1)
+        len2 = len(word2)
+        matrix = [i for i in range(len2+1)]
+
+        for i in range(1, len1+1):
+            prev = matrix[0]
+            matrix[0] = i
+            for j in range(1, len2+1):
+                if word1[i-1] == word2[j-1]:  # matrix[i][j] = matrix[i-1][j-1]
+                    cur = prev
+                else:
+                    cur = min(matrix[j-1], matrix[j], prev)+1 # matrix[i][j-1]  matrix[i-1][j]  matrix[i-1][j-1]
+                prev = matrix[j]
+                matrix[j] = cur
+        return matrix[len2]
+
+if __name__ == '__main__':
+    solution = Solution()
+    print solution.minDistance("a", "abc")
+    print solution.minDistance("", "abc")
+    print solution.minDistance("a", "")
+    print solution.minDistance("acde", "abc")
+    print solution.minDistance("acde", "abcdef")
